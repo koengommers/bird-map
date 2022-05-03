@@ -1,0 +1,21 @@
+{
+  "name": "bird-map",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.8.2",
+    "vue": "^3.2.25",
+    "vue-material-design-icons": "^5.0.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.7"
+  }
+}
